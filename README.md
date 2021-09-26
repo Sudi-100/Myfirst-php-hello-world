@@ -12,3 +12,6 @@ or the 'HTDOCS' folder in xampp and save it in someother folder maybe in C:// or
 <p> save your files in 'HTDOCS' in xampp or 'WWW' in wamp </p>
 
 <h1> sucsess </h1>
+
+# download it as a pdf 
+<a link href="myfirstphp.pdf" download>download</a>
